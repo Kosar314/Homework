@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace Homework
 {
     internal class QuickStart
-    {// КОПИРУЙ ВСЁ ОТСЮДА, ТУТ ВСЕ ЗАДАЧИ И НУЖНЫЕ ФУНКЦИИ
+    {// КОПИРУЙ ВСЁ НАЧИНАЯ ОТСЮДА, ТУТ ВСЕ ЗАДАЧИ И НУЖНЫЕ ФУНКЦИИ
         public static void Task1()
         {
             int a;
